@@ -1,4 +1,4 @@
-op = f"""\n{red}Features Reverse IP:{reset} \n{green}- Using Private API\n- Auto Domain to IP\n- Auto Remove Duplicates From List\n- Auto Skip Same IP\n- Auto Check CMS (Wordpress/Laravel(.env)/Joomla/Drupal/Nginx){reset}\n\n[+] Saved Reverse : {m}fiola_result/reverseip/{reset}\n[+] Saved Cms : {m}fiola_result/cms_reverse/{reset}\n\n[1] Reverse IP [Server 1]\t [4] Reverse IP [Server 4]
+op=f"""\n{red}Features Reverse IP:{reset} \n{green}- Using Private API\n- Auto Domain to IP\n- Auto Remove Duplicates From List\n- Auto Skip Same IP\n- Auto Check CMS (Wordpress/Laravel(.env)/Joomla/Drupal/Nginx){reset}\n\n[+] Saved Reverse : {m}fiola_result/reverseip/{reset}\n[+] Saved Cms : {m}fiola_result/cms_reverse/{reset}\n\n[1] Reverse IP [Server 1]\t [4] Reverse IP [Server 4]
 [2] Reverse IP [Server 2]\t [99] Execute All Reverse IP
 [3] Reverse IP [Server 3]
         """
